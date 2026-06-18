@@ -16,13 +16,13 @@ The work covers the full pipeline: importing and cleaning a wide, messy governme
 
 For data analyst intern roles, this project evidences:
 
-- **Data cleaning and wrangling** — profiling a wide (50+ column) government dataset, type conversion, factor handling, and deduplication with `dplyr`.
-- **Missing and suppressed data** — recognising privacy suppression (`np`) versus true nulls, and choosing median imputation appropriate to a skewed distribution rather than a default mean.
-- **Statistical literacy** — reading distribution shape, skew, central tendency, spread, and outliers, and reasoning about which summary statistic is honest to report.
-- **Data visualisation** — matching chart type to question and applying sound encoding principles (common baselines, zero-based axes, category-distinct palettes).
-- **Geospatial analysis** — plotting coordinate data over basemap tiles with `ggmap`, `ozmaps`, and `sf`.
-- **Communicating insight** — translating each chart into a clear, decision-relevant finding for a non-technical audience.
-- **Reproducibility and good practice** — a single runnable script, secrets kept out of version control, and a documented setup.
+- **Data cleaning and wrangling**: profiling a wide (50+ column) government dataset, type conversion, factor handling, and deduplication with `dplyr`.
+- **Missing and suppressed data**: recognising privacy suppression (`np`) versus true nulls, and choosing median imputation appropriate to a skewed distribution rather than a default mean.
+- **Statistical literacy**: reading distribution shape, skew, central tendency, spread, and outliers, and reasoning about which summary statistic is honest to report.
+- **Data visualisation**: matching chart type to question and applying sound encoding principles (common baselines, zero-based axes, category-distinct palettes).
+- **Geospatial analysis**: plotting coordinate data over basemap tiles with `ggmap`, `ozmaps`, and `sf`.
+- **Communicating insight**: translating each chart into a clear, decision-relevant finding for a non-technical audience.
+- **Reproducibility and good practice**: a single runnable script, secrets kept out of version control, and a documented setup.
 
 ## Visualisations
 
